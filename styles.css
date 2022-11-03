@@ -1,0 +1,35 @@
+.shortcuts {
+    position: relative;
+    float: right;
+    padding-top: 16px;
+    padding-right: 32px;
+}
+
+#google_images_link {
+    margin-right: 16px;
+}
+
+.form_content {
+    position: relative;
+    clear: both;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#s_bar {
+    width: 512px;
+    height: 48px;
+    border-radius: 16px;
+    border-width: 1px;
+    padding-left: 8px;
+}
+
+.search_button {
+    position: relative;
+    clear: both;
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+}
