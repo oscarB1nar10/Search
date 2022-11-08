@@ -34,6 +34,10 @@
     margin-top: 32px;
 }
 
+.feeling_lucky_button {
+    margin-left: 16px;
+}
+
 .form_content_advance_search {
     position: relative;
     clear: both;
